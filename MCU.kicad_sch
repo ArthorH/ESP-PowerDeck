@@ -1,0 +1,727 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "4f01d659-acdd-4286-a922-b53f5a7d02ba")
+	(paper "A4")
+	(title_block
+		(title "MAIN")
+		(date "2025-02-04")
+		(rev "A")
+		(company "Artem Horiunov")
+		(comment 1 "DESIGNED IN POLAND")
+	)
+	(lib_symbols)
+	(junction
+		(at 186.69 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0bfd088b-3626-4b5f-875c-027926540d3c")
+	)
+	(bus
+		(pts
+			(xy 176.53 146.05) (xy 200.66 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c7b2cb7-b600-45ee-8b80-618b7e732ac5")
+	)
+	(bus
+		(pts
+			(xy 176.53 57.15) (xy 200.66 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1085dd6e-0759-4037-bc6a-560df810f9bc")
+	)
+	(bus
+		(pts
+			(xy 186.69 87.63) (xy 200.66 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a5cb6a9-9270-4b47-b1fd-702afcf80a16")
+	)
+	(bus
+		(pts
+			(xy 176.53 53.34) (xy 200.66 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7080b98b-4a34-441e-bb0a-2e1d09a59ff1")
+	)
+	(bus
+		(pts
+			(xy 176.53 66.04) (xy 200.66 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73a50ff0-f4e9-4e19-aaa5-4aaa2250bc8d")
+	)
+	(bus
+		(pts
+			(xy 109.22 46.99) (xy 119.38 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7aaa7982-096b-4bc2-9c37-fba2473fcd3a")
+	)
+	(bus
+		(pts
+			(xy 176.53 142.24) (xy 200.66 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81e6457a-c9f7-4030-bd65-fa51504e240b")
+	)
+	(bus
+		(pts
+			(xy 109.22 111.76) (xy 119.38 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dd25152-8c49-47d3-b73b-dfc9dd4d5b25")
+	)
+	(bus
+		(pts
+			(xy 25.4 60.96) (xy 33.02 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a39081cd-3a0a-423e-8172-a821649a801a")
+	)
+	(bus
+		(pts
+			(xy 200.66 113.03) (xy 186.69 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3461a7b-460f-4400-b4cf-5414337325af")
+	)
+	(bus
+		(pts
+			(xy 57.15 46.99) (xy 64.77 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b381fb3b-e0be-46de-8e8a-b066668f5cff")
+	)
+	(bus
+		(pts
+			(xy 57.15 73.66) (xy 119.38 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1388bba-a553-488b-b15b-645ac6fd9e95")
+	)
+	(bus
+		(pts
+			(xy 176.53 87.63) (xy 186.69 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec6187c1-8bc9-4d0c-b27d-f2700d68e2ae")
+	)
+	(bus
+		(pts
+			(xy 176.53 49.53) (xy 200.66 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7c60f3d-605f-43fd-8aed-50c7ec22eb0d")
+	)
+	(bus
+		(pts
+			(xy 186.69 113.03) (xy 186.69 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd012dd7-04ea-4151-9005-e0b1694b0322")
+	)
+	(hierarchical_label "USB{+ -}"
+		(shape input)
+		(at 25.4 60.96 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2c48da45-df81-4f79-8459-58550d78327e")
+	)
+	(sheet
+		(at 200.66 132.08)
+		(size 57.15 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1729833a-027d-4880-9d47-9217599f0e15")
+		(property "Sheetname" "Headers"
+			(at 200.66 131.3684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Headers.kicad_sch"
+			(at 200.66 152.9846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "VSPI{SPI}" input
+			(at 200.66 146.05 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "67ab0992-d72d-4b83-a659-a3bf1de9a6d8")
+		)
+		(pin "I2C2{SCL SDA}" input
+			(at 200.66 142.24 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "21ec4afe-47b5-436e-9289-fde5b5f642ce")
+		)
+		(instances
+			(project "SimpleLedController"
+				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e/50ac3697-a6ce-452b-81fb-5fffb80c209f"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 200.66 81.28)
+		(size 57.15 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "297a673b-1001-4fdf-8775-f19fc6a11456")
+		(property "Sheetname" "5V WS2812 and Servo"
+			(at 200.66 80.5684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "5V_WS2812_N_SERVO.kicad_sch"
+			(at 200.66 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Other{5VPWM BUZZER LED}" input
+			(at 200.66 87.63 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "77a4140c-19ef-4fed-bfdd-403942980f65")
+		)
+		(instances
+			(project "SimpleLedController"
+				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e/50ac3697-a6ce-452b-81fb-5fffb80c209f"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 36.83)
+		(size 44.45 19.05)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "573e399c-55e4-4f26-868e-17041161b83a")
+		(property "Sheetname" "CH340 prog"
+			(at 64.77 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CH340 prog.kicad_sch"
+			(at 64.77 56.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_CH{+ -}" input
+			(at 64.77 46.99 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "304d7384-3ba5-4aba-b3be-14a3732c82e9")
+		)
+		(pin "UART_PROG{RX TX RST BOOT}" input
+			(at 109.22 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "b73daf2a-69c1-4478-94d1-97808f2640c2")
+		)
+		(instances
+			(project "SimpleLedController"
+				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e/50ac3697-a6ce-452b-81fb-5fffb80c209f"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 36.83)
+		(size 57.15 118.11)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "734ea1e1-065d-4afa-81e6-e29f5edd8fa7")
+		(property "Sheetname" "ESP32S3"
+			(at 119.38 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32S3.kicad_sch"
+			(at 119.38 155.5246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB{+ -}" input
+			(at 119.38 73.66 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a510394d-cbef-467e-b8cb-1fe48e295919")
+		)
+		(pin "Other{5VPWM BUZZER LED}" input
+			(at 176.53 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "15c80456-f77f-4b0f-8527-df1a85b70707")
+		)
+		(pin "Hbridge3{IN1 IN2}" input
+			(at 176.53 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f12981fd-4731-4293-8154-46df0315fe50")
+		)
+		(pin "Hbridge1{IN1 IN2}" input
+			(at 176.53 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "ce462b87-ea96-4f0b-8596-7c66350c20d9")
+		)
+		(pin "Hbridge2{IN1 IN2}" input
+			(at 176.53 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "5b24526f-e404-4011-9582-2d02463ce436")
+		)
+		(pin "I2C1{SCL SDA}" input
+			(at 176.53 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8426e571-7c85-4b2b-9d55-ffba53f179a6")
+		)
+		(pin "I2C2{SCL SDA}" input
+			(at 176.53 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "41670eec-2253-4d82-8623-6a960a1d2f3c")
+		)
+		(pin "VSPI{SPI}" input
+			(at 176.53 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "45f7dce1-be54-4492-b8f5-5b4239d5ae95")
+		)
+		(pin "Buttons{BTN1 BTN2 RST BOOT}" input
+			(at 119.38 111.76 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5738e1a4-e40e-44c8-a983-799674f15f9a")
+		)
+		(pin "UART_PROG{RX TX RST BOOT}" input
+			(at 119.38 46.99 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f27e8379-446c-40d7-bb62-64828623801b")
+		)
+		(instances
+			(project "SimpleLedController"
+				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e/50ac3697-a6ce-452b-81fb-5fffb80c209f"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 200.66 105.41)
+		(size 57.15 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a32b977d-febd-4877-a8e2-3646970420f5")
+		(property "Sheetname" "Bells and whistles"
+			(at 200.66 104.6984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Bells and whistles.kicad_sch"
+			(at 200.66 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Other{5VPWM BUZZER LED}" input
+			(at 200.66 113.03 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2c0cbe7f-3ddc-402a-b243-c51c881453a3")
+		)
+		(instances
+			(project "SimpleLedController"
+				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e/50ac3697-a6ce-452b-81fb-5fffb80c209f"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 97.79)
+		(size 44.45 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b748548d-004b-4af6-a43b-a82cc4cbcd41")
+		(property "Sheetname" "Buttons"
+			(at 64.77 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Buttons.kicad_sch"
+			(at 64.77 125.0446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Buttons{BTN1 BTN2 RST BOOT}" input
+			(at 109.22 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6bfa2cd0-aa34-4a40-9d03-e278d757bf42")
+		)
+		(instances
+			(project "SimpleLedController"
+				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e/50ac3697-a6ce-452b-81fb-5fffb80c209f"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 36.83)
+		(size 24.13 46.99)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c9e0c302-6f74-49aa-b1f3-0ee4abb3f467")
+		(property "Sheetname" "USB hub"
+			(at 33.02 36.1184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB hub.kicad_sch"
+			(at 33.02 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB{+ -}" input
+			(at 33.02 60.96 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "9ffed8bf-2589-426e-ad91-c7661e4ae12f")
+		)
+		(pin "USB_MCU{+ -}" input
+			(at 57.15 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "1f271f77-1153-4c27-b1ce-b407f532b100")
+		)
+		(pin "USB_CH{+ -}" input
+			(at 57.15 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "54df11a4-d33e-4ef4-8156-00f2572e5104")
+		)
+		(instances
+			(project "SimpleLedController"
+				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e/50ac3697-a6ce-452b-81fb-5fffb80c209f"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 200.66 44.45)
+		(size 57.15 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fe15959e-5b1f-4259-8c71-c881ef35358e")
+		(property "Sheetname" "POWER SECTION"
+			(at 200.66 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 200.66 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "Hbridge1{IN1 IN2}" input
+			(at 200.66 49.53 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b81085a6-c9b8-4cd3-b2e3-4b183632fc03")
+		)
+		(pin "Hbridge2{IN1 IN2}" input
+			(at 200.66 53.34 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "479ff41f-ee8c-435a-8add-c595527dc91b")
+		)
+		(pin "Hbridge3{IN1 IN2}" input
+			(at 200.66 57.15 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "42fff8c7-0e57-402f-a67d-1a222cfb8de8")
+		)
+		(pin "I2C1{SCL SDA}" input
+			(at 200.66 66.04 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "98c78a50-7e81-4690-a618-af3b8950e701")
+		)
+		(instances
+			(project "SimpleLedController"
+				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e/50ac3697-a6ce-452b-81fb-5fffb80c209f"
+					(page "14")
+				)
+			)
+		)
+	)
+)

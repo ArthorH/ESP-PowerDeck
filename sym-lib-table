@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-H2-MINI-1-H2")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32-H2-MINI-1-H2.kicad_sym")(options "")(descr ""))
+  (lib (name "SL2.1A")(type "KiCad")(uri "${KIPRJMOD}/lib/SL21/SL2.1A.kicad_sym")(options "")(descr ""))
+  (lib (name "SY8502")(type "KiCad")(uri "${KIPRJMOD}/lib/SY8502/SY8502.kicad_sym")(options "")(descr ""))
+  (lib (name "SY8205")(type "KiCad")(uri "${KIPRJMOD}/lib/SY8205/SY8205.kicad_sym")(options "")(descr ""))
+  (lib (name "DRV8251ADDAR")(type "KiCad")(uri "${KIPRJMOD}/lib/DRV8251/DRV8251ADDAR.kicad_sym")(options "")(descr ""))
+)
