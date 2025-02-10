@@ -217,6 +217,18 @@
 		(color 0 0 0 0)
 		(uuid "e98972ba-ffe8-498a-92aa-63039684bcc4")
 	)
+	(no_connect
+		(at 203.2 120.65)
+		(uuid "092a1587-489b-4f87-953f-4ef4e4eb11b5")
+	)
+	(no_connect
+		(at 227.33 120.65)
+		(uuid "3e4edc3b-5eb3-49b9-a741-0ff6eacb7eb5")
+	)
+	(no_connect
+		(at 214.63 120.65)
+		(uuid "aa9500f3-40f8-4473-ae20-b9c21f522acf")
+	)
 	(wire
 		(pts
 			(xy 187.96 120.65) (xy 187.96 124.46)
@@ -226,16 +238,6 @@
 			(type default)
 		)
 		(uuid "07ab28fc-46cd-453a-a1b7-078d61207f1e")
-	)
-	(wire
-		(pts
-			(xy 201.93 120.65) (xy 201.93 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "527e9397-2aa9-436d-b255-124259f98251")
 	)
 	(wire
 		(pts
@@ -259,16 +261,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 120.65) (xy 227.33 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "754206d7-b424-4b36-9d0e-80c4a321317d")
-	)
-	(wire
-		(pts
 			(xy 109.22 76.2) (xy 115.57 76.2)
 		)
 		(stroke
@@ -276,16 +268,6 @@
 			(type default)
 		)
 		(uuid "756de531-982d-471a-aff9-dee379e89e04")
-	)
-	(wire
-		(pts
-			(xy 214.63 120.65) (xy 214.63 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a0fb492-689d-4675-b0aa-c5e61ae4a771")
 	)
 	(bus
 		(pts
@@ -306,138 +288,6 @@
 			(type default)
 		)
 		(uuid "f07f6b20-0b73-4007-bd26-0a11dba1bc36")
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 201.93 124.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "02966850-9e1e-4164-8dd2-c5601adb06d1")
-		(property "Reference" "#PWR0102"
-			(at 201.93 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 201.93 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 201.93 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 201.93 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "83ab47fe-730e-4cba-97c3-fb2bbb4acaab")
-		)
-		(instances
-			(project "SimpleLedController"
-				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e"
-					(reference "#PWR0102")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 227.33 124.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "30ba5d3b-1de0-4e0a-9811-a38609f71a7c")
-		(property "Reference" "#PWR0104"
-			(at 227.33 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 227.33 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 227.33 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 227.33 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 227.33 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "34e2a8f3-92f6-4259-99f9-9c3a4756d7a9")
-		)
-		(instances
-			(project "SimpleLedController"
-				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e"
-					(reference "#PWR0104")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
@@ -467,7 +317,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 201.93 118.11 0)
 			(effects
 				(font
@@ -573,72 +423,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 214.63 124.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9ec5d88b-efbe-419a-8522-8f08827e26df")
-		(property "Reference" "#PWR0103"
-			(at 214.63 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 214.63 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.63 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 214.63 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 214.63 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1defeab1-5241-430a-939e-61cc739137dc")
-		)
-		(instances
-			(project "SimpleLedController"
-				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e"
-					(reference "#PWR0103")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
 		(at 187.96 118.11 0)
 		(unit 1)
@@ -666,7 +450,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 187.96 118.11 0)
 			(effects
 				(font
@@ -733,7 +517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 214.63 118.11 0)
 			(effects
 				(font
@@ -800,7 +584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 227.33 118.11 0)
 			(effects
 				(font

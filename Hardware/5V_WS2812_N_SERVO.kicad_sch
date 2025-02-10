@@ -1583,7 +1583,7 @@
 		)
 		(uuid "ac15be95-968a-4ba6-abbb-22805097d5e0")
 	)
-	(hierarchical_label "Other{5VPWM BUZZER LED}"
+	(hierarchical_label "Other{5VPWM USER_SW LED}"
 		(shape input)
 		(at 71.12 86.36 180)
 		(fields_autoplaced yes)

@@ -629,18 +629,9 @@
 		)
 		(uuid "045e13df-314c-4c61-b202-1adcc3191a84")
 	)
-	(bus_entry
-		(at 119.38 74.93)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08ce229f-8032-46f0-9cfe-9fe903468741")
-	)
 	(bus
 		(pts
-			(xy 119.38 73.66) (xy 119.38 74.93)
+			(xy 119.38 73.66) (xy 119.38 77.47)
 		)
 		(stroke
 			(width 0)
@@ -677,26 +668,6 @@
 			(type default)
 		)
 		(uuid "6850a6c8-8671-43ea-85f4-115f46103fe6")
-	)
-	(bus
-		(pts
-			(xy 119.38 74.93) (xy 119.38 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f47d04a-af08-4b42-9ca6-590f8c93b8cb")
-	)
-	(wire
-		(pts
-			(xy 121.92 77.47) (xy 137.16 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7eb3217e-f961-4945-8d74-e3b42736d8b1")
 	)
 	(wire
 		(pts
@@ -790,17 +761,6 @@
 		)
 		(uuid "82cb822e-e4c3-4143-83ba-490e37b491e7")
 	)
-	(label "Other.BUZZER"
-		(at 137.16 77.47 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "aad4a019-7ea1-456a-9065-de9708d051ac")
-	)
 	(label "Other.LED"
 		(at 181.61 83.82 0)
 		(fields_autoplaced yes)
@@ -812,7 +772,7 @@
 		)
 		(uuid "da5602e0-233e-46aa-a0f7-2a741174545c")
 	)
-	(hierarchical_label "Other{5VPWM BUZZER LED}"
+	(hierarchical_label "Other{5VPWM USER_SW LED}"
 		(shape input)
 		(at 110.49 73.66 180)
 		(fields_autoplaced yes)
@@ -822,7 +782,7 @@
 			)
 			(justify right)
 		)
-		(uuid "b0a922ae-21f2-41f4-96be-552b1a4ab35a")
+		(uuid "7ec2ba11-25ff-4f53-82c7-f21907b252b2")
 	)
 	(symbol
 		(lib_id "power:GND")

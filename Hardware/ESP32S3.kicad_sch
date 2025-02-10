@@ -3373,17 +3373,6 @@
 		)
 		(uuid "049dba91-0736-424f-bcdf-e793a2f38a92")
 	)
-	(label "Other.BUZZER"
-		(at 58.42 73.66 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "078a7050-0a9d-4bf9-940d-3f71407fcbc1")
-	)
 	(label "IO1"
 		(at 44.45 73.66 180)
 		(fields_autoplaced yes)
@@ -3560,7 +3549,7 @@
 		)
 		(uuid "26c1703f-7f17-433e-8f00-61b887864cbf")
 	)
-	(label "Other.BUZZER"
+	(label "Other.USER_SW"
 		(at 219.71 144.78 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3702,6 +3691,17 @@
 			(justify left bottom)
 		)
 		(uuid "44eba773-911e-4cf9-8b39-0b6c3ace2c41")
+	)
+	(label "Other.USER_SW"
+		(at 58.42 73.66 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "46a333c3-4eda-470b-99a5-5d167db77305")
 	)
 	(label "VSPI.MOSI"
 		(at 58.42 100.33 0)
@@ -4617,7 +4617,7 @@
 		)
 		(uuid "0fbd533a-e6b0-4f83-a827-d0b1596bbbc3")
 	)
-	(hierarchical_label "Other{5VPWM BUZZER LED}"
+	(hierarchical_label "Other{5VPWM USER_SW LED}"
 		(shape input)
 		(at 242.57 139.7 0)
 		(fields_autoplaced yes)

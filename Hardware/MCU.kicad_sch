@@ -60,13 +60,23 @@
 	)
 	(bus
 		(pts
-			(xy 176.53 66.04) (xy 200.66 66.04)
+			(xy 176.53 63.5) (xy 200.66 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "73a50ff0-f4e9-4e19-aaa5-4aaa2250bc8d")
+	)
+	(bus
+		(pts
+			(xy 200.66 68.58) (xy 186.69 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77b1e4d3-0a89-4138-b23c-9cfc79a0276b")
 	)
 	(bus
 		(pts
@@ -127,6 +137,16 @@
 			(type default)
 		)
 		(uuid "b381fb3b-e0be-46de-8e8a-b066668f5cff")
+	)
+	(bus
+		(pts
+			(xy 186.69 68.58) (xy 186.69 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d989ad9b-2a90-490d-a9b8-a356ffa97290")
 	)
 	(bus
 		(pts
@@ -268,7 +288,7 @@
 				(justify left top)
 			)
 		)
-		(pin "Other{5VPWM BUZZER LED}" input
+		(pin "Other{5VPWM USER_SW LED}" input
 			(at 200.66 87.63 180)
 			(effects
 				(font
@@ -276,7 +296,7 @@
 				)
 				(justify left)
 			)
-			(uuid "77a4140c-19ef-4fed-bfdd-403942980f65")
+			(uuid "1b055340-e1c6-4147-b2a1-fce74ef56478")
 		)
 		(instances
 			(project "SimpleLedController"
@@ -384,16 +404,6 @@
 			)
 			(uuid "a510394d-cbef-467e-b8cb-1fe48e295919")
 		)
-		(pin "Other{5VPWM BUZZER LED}" input
-			(at 176.53 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "15c80456-f77f-4b0f-8527-df1a85b70707")
-		)
 		(pin "Hbridge3{IN1 IN2}" input
 			(at 176.53 57.15 0)
 			(effects
@@ -425,7 +435,7 @@
 			(uuid "5b24526f-e404-4011-9582-2d02463ce436")
 		)
 		(pin "I2C1{SCL SDA}" input
-			(at 176.53 66.04 0)
+			(at 176.53 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -474,6 +484,16 @@
 			)
 			(uuid "f27e8379-446c-40d7-bb62-64828623801b")
 		)
+		(pin "Other{5VPWM USER_SW LED}" input
+			(at 176.53 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f13d06c6-41de-49f9-aa3a-a5886287af90")
+		)
 		(instances
 			(project "SimpleLedController"
 				(path "/de1fb7b1-f28d-4bae-89ca-5550da77be4e/50ac3697-a6ce-452b-81fb-5fffb80c209f"
@@ -512,7 +532,7 @@
 				(justify left top)
 			)
 		)
-		(pin "Other{5VPWM BUZZER LED}" input
+		(pin "Other{5VPWM USER_SW LED}" input
 			(at 200.66 113.03 180)
 			(effects
 				(font
@@ -520,7 +540,7 @@
 				)
 				(justify left)
 			)
-			(uuid "2c0cbe7f-3ddc-402a-b243-c51c881453a3")
+			(uuid "280ca432-26bf-407e-bb95-369d830b3d2c")
 		)
 		(instances
 			(project "SimpleLedController"
@@ -707,7 +727,7 @@
 			(uuid "42fff8c7-0e57-402f-a67d-1a222cfb8de8")
 		)
 		(pin "I2C1{SCL SDA}" input
-			(at 200.66 66.04 180)
+			(at 200.66 63.5 180)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -715,6 +735,16 @@
 				(justify left)
 			)
 			(uuid "98c78a50-7e81-4690-a618-af3b8950e701")
+		)
+		(pin "Other{5VPWM USER_SW LED}" input
+			(at 200.66 68.58 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6acc03a9-2806-44a0-9b7c-6cb8a3f4fa6a")
 		)
 		(instances
 			(project "SimpleLedController"
