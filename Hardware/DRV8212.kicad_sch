@@ -4366,7 +4366,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF 16V"
+		(property "Value" "100nF"
 			(at 200.914 39.116 0)
 			(effects
 				(font
@@ -6412,7 +6412,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9588638b-5604-48fa-8552-1c5979ff22a9")
 		(property "Reference" "#PWR0170"
 			(at 152.4 76.2 0)
