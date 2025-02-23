@@ -6,15 +6,14 @@ Versitale universal development board for ESP32-S3 microcontroller
 ## Project Status: **Ongoing**  
 **Design** ✅ — **Fabrication** ✅ — **Assembly** ⏳ — **Bringup** ⏳ — **Testing** ⏳  
 ## Key technologies:
-
+<img align="center" height="70" src="https://github.com/user-attachments/assets/09482934-147f-4055-aa26-82feef188862">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img align="center" height="70" src="https://github.com/user-attachments/assets/21632584-becb-4529-b696-acb84c8190e9">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 ## Who it's for
+
 Want to play with robotics? Maybe you have a cool IoT project in mind? You don't want to hassle with assembling development modules or soldering jumper cables, and jump straight into controlling serious hardware—not just LEDs on a breadboard?
 ![IMG_0529](https://github.com/user-attachments/assets/1b720cb2-0185-450e-9e21-42a47148bf55)
 
 #### Power deck is for you! 
-![output2](https://github.com/user-attachments/assets/fc9b3f71-561d-4b67-81a1-366395ce9bcb)
-
-Power deck is fully feachured ESP32-S3 development board that is combined powerfull general purpose output stage feachuring:
+<img align="center" height="600" src="https://github.com/user-attachments/assets/fc9b3f71-561d-4b67-81a1-366395ce9bcb">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 # Feachures
 - 60W Power delivery input
 - High power 5V and 3.3V line outputs
