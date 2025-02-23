@@ -15,6 +15,7 @@ Want to play with robotics? Maybe you have a cool IoT project in mind? You don't
 ![output2](https://github.com/user-attachments/assets/fc9b3f71-561d-4b67-81a1-366395ce9bcb)
 
 Power deck is fully feachured ESP32-S3 development board that is combined powerfull general purpose output stage feachuring:
+# Feachures
 - 60W Power delivery input
 - High power 5V and 3.3V line outputs
 - 3 Channel H-Bridge power output stage with "SafeMode" and to 43W single channel H-Bridge output
