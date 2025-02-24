@@ -1,6 +1,7 @@
 # ESP PowerDeck
 Versitale universal development board for ESP32-S3 microcontroller
-![obraz](https://github.com/user-attachments/assets/08d07e94-f667-4e3d-b2f2-bb6765c9d6aa)
+![PowerDeckRender](https://github.com/user-attachments/assets/93c474b1-401d-4397-bfc3-e6e4a8d97de5)
+
 
 (Renders will be updated )
 ## Project Status: **Ongoing**  
@@ -46,6 +47,4 @@ Also last but not least IoT projects are also possible:
 # Author
 Artem Horiunov
 # License 
-To be added
-
-![obraz](https://github.com/user-attachments/assets/891f0dc1-850b-4db7-9c5c-65979c691b0b)
+CERN-OHL-P V2
