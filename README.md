@@ -1,5 +1,5 @@
 # ESP PowerDeck
-Versitale universal development board for ESP32-S3 microcontroller
+Versitale development board for ESP32-S3 microcontroller
 ![PowerDeckRender](https://github.com/user-attachments/assets/93c474b1-401d-4397-bfc3-e6e4a8d97de5)
 ## Project Status: **Ongoing**  
 **Design** ✅ — **Fabrication** ✅ — **Assembly** ⏳ — **Bringup** ⏳ — **Testing** ⏳  
