@@ -12,7 +12,7 @@ Want to play with robotics? Maybe you have a cool IoT project in mind? You don't
 
 #### Power deck is for you! 
 <img align="center" height="600" src="https://github.com/user-attachments/assets/fc9b3f71-561d-4b67-81a1-366395ce9bcb">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-# Feachures
+# Features
 - 60W Power delivery input
 - High power 5V and 3.3V line outputs
 - 3 Channel H-Bridge power output stage with "SafeMode" and to 43W single channel H-Bridge output
