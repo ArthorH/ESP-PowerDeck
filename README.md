@@ -2,7 +2,7 @@
 Versitale development board for ESP32-S3 microcontroller
 ![PowerDeckRender](https://github.com/user-attachments/assets/93c474b1-401d-4397-bfc3-e6e4a8d97de5)
 ## Project Status: **Ongoing**  
-**Design** ✅ — **Fabrication** ✅ — **Assembly** ⏳ — **Bringup** ⏳ — **Testing** ⏳  
+**Design** ✅ — **Fabrication** ✅ — **Assembly** ✅ — **Bringup** ⏳ — **Testing** ⏳  
 ## Key technologies:
 <img align="center" height="70" src="https://github.com/user-attachments/assets/09482934-147f-4055-aa26-82feef188862">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <img align="center" height="70" src="https://github.com/user-attachments/assets/21632584-becb-4529-b696-acb84c8190e9">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 ## Who it's for
