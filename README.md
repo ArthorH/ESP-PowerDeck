@@ -38,7 +38,8 @@ To driving bldc motors using advanced FOC alghoritms:
 Also last but not least IoT projects are also possible:
 ![obraz](https://github.com/user-attachments/assets/893836ca-7ce9-46b9-a18b-a52b847b0997)
 
-
+# Layout:
+<img width="1022" height="577" alt="image" src="https://github.com/user-attachments/assets/e3b9e444-1424-4dfe-9dfe-e35f895fe59c" />
 
 
 # Author
